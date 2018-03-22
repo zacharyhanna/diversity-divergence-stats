@@ -8,9 +8,9 @@ $ cat genotypes_table | tableFstPi n pop1 pop2
 ```
 This is a C script (we compiled the provided executable on an Ubuntu system) that takes a specific input file giving the genotype of each individual (genotypes_table) and requires you to specify "n", the total number of individuals in the input file and provide two files that denote the samples in each population (pop1 and pop2).  
 The script's output consists of four values:  
-pi<sub>Within</sub> population 1  
-pi<sub>Within</sub> population 2  
-pi<sub>Between</sub> populations 1 and 2  
+\pi<sub>Within</sub> population 1  
+\pi<sub>Within</sub> population 2  
+\pi<sub>Between</sub> populations 1 and 2  
 _F<sub>ST</sub>_ between populations 1 and 2  
 . , The format of the population files is as follows:  
 
