@@ -57,6 +57,8 @@ Usage example:
 $ cat example_table | tableFstPi 5 pop1 pop2
 ```
 
+ {\displaystyle {{\hat {\theta }}_{w}}} {{\hat  \theta }_{w}}
+
 ## Citing the repository
 ### Authorship
 Code author: Jeffrey D. Wall  
