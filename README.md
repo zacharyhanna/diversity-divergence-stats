@@ -12,7 +12,7 @@ The script's output consists of four tab-separated values:
 π<sub>Within</sub> population 1 (Nei & Li, 1979)  
 π<sub>Within</sub> population 2  
 π<sub>Between</sub> populations 1 and 2 (Nei & Li, 1979)  
-_F<sub>ST</sub>_ between populations 1 and 2  
+_F<sub>ST</sub>_ between populations 1 and 2 (Hudson, Slatkin & Maddison, 1992)  
   
 The format of the genotypes_table file is as follows:  
 Each line represents a separate biallelic variant.  
@@ -61,8 +61,11 @@ Code author: Jeffrey D. Wall
 README.md author: <a href="https://orcid.org/0000-0002-0210-7261" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">Zachary R. Hanna</a> . 
 
 Please cite this repository as follows (replace XXXX with the version used):  
-Wall JD, <a href="https://orcid.org/0000-0002-0210-7261" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">Hanna ZR</a>. 2018. divergence-distance-stats. Version XXXX. _Zenodo_. DOI:  
+Wall JD, <a href="https://orcid.org/0000-0002-0210-7261" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">Hanna ZR</a>. 2018. diversity-divergence-stats. Version XXXX. _Zenodo_. DOI:  
 
 ## References
-Nei M., Li WH. 1979. Mathematical model for studying genetic variation in terms of restriction endonucleases. Proceedings of the National Academy of Sciences of the United States of America 76:5269–5273.  
+Hudson RR., Slatkin M., Maddison WP. 1992. Estimation of Levels of Gene Flow from DNA Sequence Data. _Genetics_ 132:583–589.  
+  
+Nei M., Li WH. 1979. Mathematical model for studying genetic variation in terms of restriction endonucleases. _Proceedings of the National Academy of Sciences of the United States of America_ 76:5269–5273.  
+  
 Watterson GA. 1975. On the number of segregating sites in genetical models without recombination. _Theoretical Population Biology_ 7:256–276. DOI: 10.1016/0040-5809(75)90020-9.  
