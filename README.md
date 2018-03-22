@@ -10,7 +10,7 @@ This is a C script (we compiled the provided executable on an Ubuntu system) tha
 The script's output consists of four values:  
 $$\pi$$<sub>Within</sub> population 1  
 $$\pi$$<sub>Within</sub> population 2  
-\pi<sub>Between</sub> populations 1 and 2  
+π<sub>Between</sub> populations 1 and 2  
 _F<sub>ST</sub>_ between populations 1 and 2  
 . , The format of the population files is as follows:  
 
